@@ -1,0 +1,28 @@
+# Core packages
+flask==2.0.1
+python-dotenv==1.0.0
+
+# LLM and embeddings
+gpt4all==1.0.5
+sentence-transformers==2.2.2
+
+# Vector database
+pinecone-client==2.2.2
+langchain==0.0.267
+langchain-pinecone==0.0.1
+langchain-huggingface==0.0.1
+
+# Caching
+cachetools==5.3.1
+
+# HuggingFace
+huggingface-hub==0.16.4
+transformers==4.30.2
+
+# Utilities
+requests==2.31.0
+numpy==1.24.3
+pandas==2.0.3
+
+# ONNX Runtime for optimized model inference
+onnxruntime==1.15.1
