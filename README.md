@@ -1,4 +1,5 @@
 # Local RAG Chatbot
+<< Archive 3.zip covered the whole project >>
 
 A Retrieval-Augmented Generation (RAG) chatbot that provides information using local LLM and vector search.
 
