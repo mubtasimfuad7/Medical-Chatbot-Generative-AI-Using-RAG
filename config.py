@@ -7,7 +7,7 @@ from os.path import join, dirname, exists
 from pathlib import Path
 
 # API Keys (with default fallbacks)
-PINECONE_API_KEY = os.environ.get("PINECONE_API_KEY", "pcsk_3FxEjX_PU14iod1t5qbzFUTBqnraZwCrLKYnT6Gbsf2z2bhKpmQGr4MCBHAUJJwTCbGh96")
+PINECONE_API_KEY = os.environ.get("PINECONE_API_KEY", "<<put YOUR API here>>")
 PINECONE_ENV = os.environ.get("PINECONE_ENVIRONMENT", "us-east-1")
 PINECONE_NAMESPACE = ""  # Default to empty namespace
 
